@@ -9,5 +9,5 @@ class NMFTasks(object):
 
 
 if __name__ == "__main__":
+    # nothing to show
     pass
-
