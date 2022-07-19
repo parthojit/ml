@@ -8,3 +8,6 @@ This is a repository for prototype softwares that are helpful for Sensor Informa
 https://iopscience.iop.org/article/10.1088/2632-2153/abc60a/pdf
 
 
+`Machine Learning for the Sciences`
+- https://arxiv.org/abs/2102.04883
+- https://arxiv.org/pdf/2102.04883.pdf
