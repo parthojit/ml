@@ -44,8 +44,8 @@ class Chaos(object):
         # sigma = 10.0 #Variable for dx/dt
         # rho = 28.0 #Variable for dy/dt
         # beta = 8/3 #Variable for dz/dt
-        a = 0.1
-        b = 0.1
+        a = 0.01
+        b = 2
         c = 100
         t = 0 #Starting time
         tf = 100 #Ending time

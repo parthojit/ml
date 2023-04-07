@@ -24,7 +24,7 @@ for i in range(0,24):
         SET+=1
     else:
         SET-=1
-# plt.plot(solar_cell_current)
-# plt.show()
+plt.plot(solar_cell_current)
+plt.show()
 
 
